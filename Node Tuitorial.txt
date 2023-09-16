@@ -1,0 +1,19 @@
+//1. Open the command prompt(cmd) then enter [node --version] to see the current version of Node js.  
+
+//2. Node js is a command line interface through which we can access JS outside the browser.
+
+Ex:
+    write in the CLI
+
+1. node
+2. const myName = "Aditya"
+3. if we enter myName then it will display Aditya.
+
+//3. Use ctrl + c to abort the terminal
+
+//4. To execute a node file there are 2 approaches
+
+i) open the folder in the terminal then enter [node Js_file_name] then enter
+ii) open the vs code terminal and then enter [node Js_file_name] ..[for terminal --> ctrl + `]
+
+//5. [clear] is used to clear the terminal
